@@ -1,0 +1,23 @@
+#BlueJ package file
+package.editor.height=400
+package.editor.width=560
+package.editor.x=134
+package.editor.y=139
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.appletHeight=500
+target1.appletWidth=500
+target1.editor.height=768
+target1.editor.width=999
+target1.editor.x=119
+target1.editor.y=137
+target1.height=50
+target1.name=BCDtoSevenSeg
+target1.numberAppletParameters=0
+target1.showInterface=false
+target1.type=AppletTarget
+target1.width=120
+target1.x=60
+target1.y=10
